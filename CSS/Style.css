@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+body h1 {
+    color: #3D00F1;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+body p {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body h2 {
+    color: #A900FF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+body h3 {
+    color: #FF0000;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+body h4 {
+    color: #007225;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+body h5 {
+    color: #FF5F00;
+}
+#Ima {
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#Fami {
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+#Gafas {
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#Iglesia {
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+#Atardecer {
+    float: left;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#Menú {
+    text-align: center;
+}
